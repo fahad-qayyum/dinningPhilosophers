@@ -33,12 +33,12 @@ typedef struct{
 // ----------------------- Global variables and features ---------------------------
 
 Philosopher philosopher[5];					// total philosophers are 5
-void setter(int );							// setter feature
+void setter(int );						// setter feature
 void setUpPhilosopher();					// setting up philosophers
-void thinking(int);							// if the state is thinking		
-void eating(int);							// if the state is eating
-void hungry(int);							// if the state is hunry
-sem_t chopSticks[PHILOSOPHERS];				// seampahore for chopsticks
+void thinking(int);						// if the state is thinking		
+void eating(int);						// if the state is eating
+void hungry(int);						// if the state is hunry
+sem_t chopSticks[PHILOSOPHERS];					// seampahore for chopsticks
 int val[PHILOSOPHERS];						// value per philosopher
 
 void main(){
