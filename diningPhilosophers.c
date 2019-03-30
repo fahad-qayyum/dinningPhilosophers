@@ -1,7 +1,7 @@
 /*	Name : Fahad Qayyum
  * 	EECS login: fahadq
  * 	YU ID : 215287253
- *     Assignment # 3 Question: Dining Philosophers
+ *      Assignment # 3 Question: Dining Philosophers
  * 	Course Code : EECS 3221
  * 	Course Name : Operating systems*/
 
