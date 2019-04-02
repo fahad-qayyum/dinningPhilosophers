@@ -1,2 +1,2 @@
-# dinningPhilosophers
+Question
 ![](question.PNG)
